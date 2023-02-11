@@ -1,6 +1,37 @@
 # Python for Data Analysis:
 This is include the details about Numpy, Pandas, Seaborn, Matplotlib, Pyplot, Plotly, GGPlot. <br>
 
+## Numpy Topis:
+* Creating Array (1D, 2D, 3D, nD);
+* Finding type, size, dimention, shape, etc. of array;
+* Creating & rehaping array;
+* Array iteration;
+* Array Splitting;
+* Search an Element in an array;
+* Sort the array;
+* Filtering (remove duplicates from array);
+* Slicing Array;
+* 1D, 2D, nD Array Concatination;
+* Shallow Copy;
+* Deep Copy;
+* Random;
+* Random Number Generation;
+* Creating Matrix (1D, 2D, 3D, nD);
+* Linespace;
+* Ones;
+* Zeros;
+* Creating Diagonal Element;
+* Extracting Diagonal Elements;
+* Create a array with given diagonal element;
+* Create a Triangle array;
+* Uppen Triangle & Lower Triangle;
+* Get Maximum & Minimum Value from array & Matrix;
+* Broadcasting : (elements by element operation is called broadcasting);
+* Array Additions, Subtraction, Multiplications;
+* Array Transpose;
+* Numpy from function;
+* Array from function.
+
 
 
 ## All Visualizations:
