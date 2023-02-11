@@ -72,6 +72,13 @@ This is include the details about Numpy, Pandas, Seaborn, Matplotlib, Pyplot, Pl
 * Heat Map is used to show the missing points of your dataset.
 
 
+#### Pie Chart:
+* Pie charts are often used to represent sample data—with data points belonging to a combination of different categories. Each of these categories is represented as a “slice of the pie.” The size of each slice is directly proportional to the number of data points that belong to a particular category.
+* It helps to the distribution over a categories.
+
+
+
+
 
 
 
