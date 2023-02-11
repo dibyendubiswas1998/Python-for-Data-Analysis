@@ -32,6 +32,40 @@ This is include the details about Numpy, Pandas, Seaborn, Matplotlib, Pyplot, Pl
 * Numpy from function;
 * Array from function.
 
+## Pandas Topics:
+* read from csv, excel, html, json, etc.,
+* load from mysql database,
+* execute query through database,
+* save as a file: data.to_csv('file_name.csv'),
+* head(), tail()
+* shape,
+* info(),
+* describe(),
+* mean(), median(), mode(), unique(),
+* dtypes,
+* getting object, integer, float columns,
+* isnull(),
+* isnull().sum(),
+* drop(): drop columns,
+* data.columns: get the columns names,
+* .loc[], .iloc[],
+* Slicing,
+* get top to bottom records,
+* get bottom to top records,
+* sorted(): sort records,
+* sort_values: sort values,
+* np.where() method,
+* groupby(),
+* join(),
+* merge(),
+* map(),
+* rename(): rename columns,
+* astype(): helps to convert int to str or str to int,
+* replace(),
+* fillna(),
+* corr(),
+* etc.
+
 
 
 ## All Visualizations:
